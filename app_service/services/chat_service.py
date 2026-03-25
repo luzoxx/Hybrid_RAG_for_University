@@ -44,7 +44,7 @@ except Exception as e:
     es = None
 
 
-SERVER_URL = "https://appmachinepublic24.aiplatform.vcntt.tech/v1/chat/completions"
+SERVER_URL = "https://app.aiplatform.vcntt.tech/v1/chat/completions"
 
 
 class VectorSearch:
